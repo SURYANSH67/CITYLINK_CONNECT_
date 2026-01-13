@@ -8,13 +8,6 @@ It has two sides:
 	•	Public Portal: For people to report issues.
 	•	Admin Dashboard: For government officials to track and resolve them.
 
-⸻
-
-🔗 Live Demo
-
-[Add your live website link here if deployed]
-
-⸻
 
 🧩 Features Overview
 
@@ -34,8 +27,6 @@ It has two sides:
 	•	Update status, write notes, and resolve issues.
 	•	Citizens get email when their issue is marked resolved.
 
-⸻
-
 🛠️ Tech Stack
 
 🔙 Backend
@@ -48,9 +39,7 @@ It has two sides:
 	•	Vanilla JavaScript
 	•	Chart.js (for graphs)
 	•	Google Maps API (for address input)
-
-⸻
-
+	
 💻 How to Run Locally
 
 Follow these simple steps:
